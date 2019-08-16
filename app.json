@@ -1,0 +1,10 @@
+{
+  "name": "petrepherokutest1",
+  "description": "Heroku Java Web Application Using Embedded Tomcat",
+  "repository": "https://github.com/petrep/petrepherokutest1",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tomcat-logo.svg",
+  "keywords": [
+    "java",
+    "tomcat"
+  ]
+}
